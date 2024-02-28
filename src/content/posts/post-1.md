@@ -3,21 +3,19 @@ title: "How to make toys from old Olarpaper"
 description: "meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/posts/01.jpg"
-categories: ["art"]
+categories: ["jamstack"]
 authors: ["Faizan Gondal"]
-tags: ["diy", "toy"]
+tags: ["jamstack", "jamstack seo"]
 draft: false
 ---
 
-# Faizan Gondal
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+# Welcome to the Jamstack
+A new approach to faster, more secure websites.
+This enables a revolutionary new architecture called the Jamstack , designed to make the web faster—and to support the new tools and workflows used in modern web development.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## The problem with the legacy web
 
-## Creative Design
+Complex apps and complex servers
+A traditional website is actually a program that has to run on a web server at all times.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Running sites this way needlessly slows things down, provides way too many opportunities for attack, and is expensive to scale.
