@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "Code With Fazi",
+    "base_url": "https://bookworm-light-astro.vercel.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.jpg",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Code With Fazi"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Faizan Gondal",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Faizan Gondal Blog Website"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2024 a theme by [Code With Fazi](https://codewithfazi.vercel.app)"
+  },
+
+  "contactinfo": {
+    "address": "Ratto kala <br/> Punjab, Pakiston",
+    "email": "codewithfazi@gmail.com",
+    "phone": "+923260296631"
+  }
+}
