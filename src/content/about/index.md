@@ -1,5 +1,5 @@
 ---
-title: "I’m Faizan Gondal, A Web & App Developer based in Punjab,Pakistan, Currently at Blog Website project."
+title: "I’m Faizan Gondal, A Web & App Developer based in Punjab,Pakistan.Currently Working on Blog Website project."
 meta_title: "About"
 image: "/images/author.png"
 draft: false

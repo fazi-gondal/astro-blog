@@ -1,6 +1,6 @@
 ---
-title: Rehan Javed
-image: /images/authors/mark-dinn.jpg
+title: Faizan Gondal
+image: /images/authors/fazi.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

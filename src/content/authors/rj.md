@@ -1,6 +1,6 @@
 ---
-title: Faizan Gondal
-image: /images/authors/john-doe.jpg
+title: Rehan Javed
+image: /images/authors/rj.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

@@ -9,10 +9,6 @@
       "url": "/about"
     },
     {
-      "name": "Authors",
-      "url": "/authors"
-    },
-    {
       "name": "Categories",
       "url": "/categories"
     },
@@ -33,6 +29,10 @@
     {
       "name": "Contact",
       "url": "/contact"
+    },
+    {
+      "name": "Authors",
+      "url": "/authors"
     },
     {
       "name": "Elements",
