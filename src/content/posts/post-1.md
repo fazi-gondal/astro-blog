@@ -1,19 +1,20 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "A bag contain 4 white and 6 black balls."
 description: "meta description"
-date: 2022-04-04T05:00:00Z
+date: 2024-04-04T05:00:00Z
 image: "/images/posts/01.jpg"
-categories: ["art"]
+categories: ["math"]
 authors: ["Faizan Gondal"]
-tags: ["jamstack", "jamstack-seo"]
+tags: ["probability", "math"]
 draft: false
 ---
 
-# Welcome To JamStack
-Welcome to the Jamstack
-A new approach to faster, more secure websites. This enables a revolutionary new architecture called the Jamstack , designed to make the web faster—and to support the new tools and workflows used in modern web development.
+#### Q No=6
 
-## The problem with the legacy web
-Complex apps and complex servers A traditional website is actually a program that has to run on a web server at all times.
+#### **A bag contain 4 white and 6 black balls.** Five balls are drawn from the bag. Find the probability distribution of the number of white balls. Compute the mean and variance of this probability distribution.
 
-Running sites this way needlessly slows things down, provides way too many opportunities for attack, and is expensive to scale.
+**Red**                                           **Blue**                                    **Total**
+
+4=K                                             6                                          N=10
+
+n=3
