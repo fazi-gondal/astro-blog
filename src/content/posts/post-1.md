@@ -1,7 +1,7 @@
 ---
 title: "A bag contain 4 white and 6 black balls."
 description: "meta description"
-date: 2024-04-04T05:00:00Z
+date: 2024-02-29T09:00:00Z
 image: "/images/posts/01.jpg"
 categories: ["math"]
 authors: ["Faizan Gondal"]
