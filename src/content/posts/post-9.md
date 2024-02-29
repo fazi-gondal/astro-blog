@@ -1,5 +1,5 @@
 ---
-title: "Fitness and Health benefits of regular exercise"
+title: "Health benefits of regular exercise"
 description: "health is a dynamic process.it keeps on changing as we change our 
 lifestyle, our eating habits, our sleeping routine, our thoughts, etc"
 date: 2024-03-01T08:00:00Z
@@ -10,7 +10,7 @@ tags: ["gym", "fitness", "health"]
 draft: false
 ---
 
-# Fitness and Health benefits of regular exercise
+# Health benefits of regular exercise
 
 Science has shown that one of the benefits of exercise is better brain health, including a lower risk for dementia, but researchers have not known why. A study published online Dec. 7, 2023, by the *Journal of Alzheimer's Disease* may offer an explanation.
 
