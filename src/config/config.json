@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Code With Fazi",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "base_url": "https://fazi-blog.netlify.app/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.webp",
