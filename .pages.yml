@@ -14,7 +14,7 @@ content:
       - { name: pubDatetime, label: Date, type: date }
       - { name: Image, label: image, type: image }
       - { name: categories, label: categories, type: string, list: true }
-      - { name: author, label: Author, type: string }
+      - { name: authors, label: Authors, type: string }
       - { name: tags, label: Tags, type: string, list: true }
       - { name: draft, label: Draft, type: boolean }
       - { name: body, label: Body, type: rich-text }
