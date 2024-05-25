@@ -18,6 +18,14 @@ content:
       - { name: tags, label: Tags, type: string, list: true }
       - { name: draft, label: Draft, type: boolean }
       - { name: body, label: Body, type: rich-text }
+  - name: authors
+    label: Authors
+    path: src/content/authors
+    type: file
+    fields: 
+      - { name: layout, type: string, hidden: true, default: layouts/base.njk }
+      - { name: title, label: Title, type: string }
+      - { name: body, label: Body, type: rich-text, options: { input: public/assets, output: /assets } }
   - name: about
     label: About page
     type: file
