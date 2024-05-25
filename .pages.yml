@@ -19,19 +19,9 @@ content:
       - { name: draft, label: Draft, type: boolean }
       - { name: body, label: Body, type: rich-text }
   - name: authors
-    label: Author
-    path: src/content/authors/fazi.md
-    type: file
-    fields: 
-      - { name: layout, type: string, hidden: true, default: layouts/base.njk }
-      - { name: title, label: Title, type: string }
-      - { name: Image, label: image, type: image }
-      - { name: description, label: Description, type: string }
-      - { name: body, label: Body, type: rich-text, options: { input: public/assets, output: /assets } }
-  - name: authors
     label: Authors
-    path: src/content/authors/rj.md
-    type: file
+    path: src/content/authors
+    type: collection
     fields: 
       - { name: layout, type: string, hidden: true, default: layouts/base.njk }
       - { name: title, label: Title, type: string }
