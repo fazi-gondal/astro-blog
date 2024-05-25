@@ -23,7 +23,6 @@ content:
     path: src/content/authors
     type: collection
     fields: 
-      - { name: layout, type: string, hidden: true, default: layouts/base.njk }
       - { name: title, label: Title, type: string }
       - { name: Image, label: image, type: image }
       - { name: description, label: Description, type: string }
