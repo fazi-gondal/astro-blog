@@ -9,14 +9,14 @@ content:
     view:
       fields: [ title, draft, date ]
     fields:
-      - { name: pubDatetime, label: Date, type: date }
-      - { name: modDatetime, label: Date, type: date }
       - { name: title, label: Title, type: string, required: true }
-      - { name: Image, label: image, type: image }
-      - { name: draft, label: Draft, type: boolean }
-      - { name: categories, label: categories, type: string, list: true }
-      - { name: tags, label: Tags, type: string, list: true }
       - { name: description, label: Description, type: string }
+      - { name: Date, label: Date, type: date }
+      - { name: Image, label: image, type: image }
+      - { name: categories, label: categories, type: string, list: true }
+      - { name: author, label: Author, type: string }
+      - { name: tags, label: Tags, type: string, list: true }
+      - { name: draft, label: Draft, type: boolean }
       - { name: body, label: Body, type: rich-text }
   - name: about
     label: About page
