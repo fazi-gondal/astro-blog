@@ -11,7 +11,7 @@ content:
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: description, label: Description, type: string }
-      - { name: Date, label: Date, type: date }
+      - { name: Datetime, label: Date, type: date }
       - { name: Image, label: image, type: image }
       - { name: categories, label: categories, type: string, list: true }
       - { name: author, label: Author, type: string }
