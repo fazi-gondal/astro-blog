@@ -19,7 +19,7 @@ content:
       - { name: draft, label: Draft, type: boolean }
       - { name: body, label: Body, type: rich-text }
   - name: authors
-    label: Authors
+    label: Author
     path: src/content/authors/fazi.md
     type: file
     fields: 
