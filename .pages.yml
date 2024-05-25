@@ -20,7 +20,7 @@ content:
       - { name: body, label: Body, type: rich-text }
   - name: authors
     label: Authors
-    path: src/content/authors
+    path: src/content/authors/fazi.md
     type: file
     fields: 
       - { name: layout, type: string, hidden: true, default: layouts/base.njk }
