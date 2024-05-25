@@ -1,8 +1,7 @@
 ---
-authors: Faizan Gondal
 pubDatetime: 2024-05-25
 modDatetime: 2024-05-25
-title: How to make toys from old Olarpaper
+title: How to make toys from old Olarpaper.
 Image: //images/posts/04.jpg
 draft: false
 categories:
