@@ -3,12 +3,6 @@ title: "Welcome to Fazi blog "
 description: Hi I'm Faizan Gondal a Full-stack developer
 pubDatetime: 2024-06-11
 Image: //images/posts/Snapchat-509184618.jpg
-categories:
-  - "Faizan Gondal "
-authors: "Faizan Gondal "
-tags:
-  - "Fazi blog "
-  - "Faizan Gondal "
 draft: false
 ---
 Here are some more details about fazi-gondal's GitHub profile:
